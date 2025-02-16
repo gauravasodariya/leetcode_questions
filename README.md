@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravasodariya/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0455-assign-cookies](https://github.com/gauravasodariya/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/gauravasodariya/leetcode_questions/tree/master/0890-lemonade-change) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
@@ -108,9 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
