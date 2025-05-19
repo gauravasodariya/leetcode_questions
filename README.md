@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gauravasodariya/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/gauravasodariya/leetcode_questions/tree/master/0890-lemonade-change) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
