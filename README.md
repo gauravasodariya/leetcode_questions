@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/gauravasodariya/leetcode_questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauravasodariya/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravasodariya/leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
