@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/gauravasodariya/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/gauravasodariya/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravasodariya/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/gauravasodariya/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0229-majority-element-ii) |
