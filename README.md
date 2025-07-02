@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0260-single-number-iii) |
+| [1610-xor-operation-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0007-reverse-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
