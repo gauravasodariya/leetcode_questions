@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0260-single-number-iii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gauravasodariya/leetcode_questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauravasodariya/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/gauravasodariya/leetcode_questions/tree/master/0118-pascals-triangle) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
