@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0263-ugly-number) |
 | [1610-xor-operation-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/gauravasodariya/leetcode_questions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## String
