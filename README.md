@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gauravasodariya/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravasodariya/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/gauravasodariya/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/gauravasodariya/leetcode_questions/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0263-ugly-number) |
 | [1610-xor-operation-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauravasodariya/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
