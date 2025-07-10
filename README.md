@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gauravasodariya/leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravasodariya/leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravasodariya/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/gauravasodariya/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravasodariya/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
