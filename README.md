@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/gauravasodariya/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/gauravasodariya/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0229-majority-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0229-majority-element-ii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/gauravasodariya/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0344-reverse-string) |
