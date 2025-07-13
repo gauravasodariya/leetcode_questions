@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravasodariya/leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravasodariya/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravasodariya/leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/gauravasodariya/leetcode_questions/tree/master/0890-lemonade-change) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
