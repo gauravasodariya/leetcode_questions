@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/gauravasodariya/leetcode_questions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gauravasodariya/leetcode_questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0078-subsets) |
