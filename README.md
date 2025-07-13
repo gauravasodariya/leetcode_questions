@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/gauravasodariya/leetcode_questions/tree/master/0890-lemonade-change) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gauravasodariya/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/gauravasodariya/leetcode_questions/tree/master/0890-lemonade-change) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gauravasodariya/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Recursion
@@ -315,5 +320,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 <!---LeetCode Topics End-->
