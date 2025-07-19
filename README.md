@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauravasodariya/leetcode_questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gauravasodariya/leetcode_questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/gauravasodariya/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3396-valid-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3617-find-the-original-typed-string-i) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Backtracking
 |  |
 | ------- |
