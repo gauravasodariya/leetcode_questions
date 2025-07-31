@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0260-single-number-iii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/gauravasodariya/leetcode_questions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/gauravasodariya/leetcode_questions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
