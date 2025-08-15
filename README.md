@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/gauravasodariya/leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/gauravasodariya/leetcode_questions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
