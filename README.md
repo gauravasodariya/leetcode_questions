@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravasodariya/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/gauravasodariya/leetcode_questions/tree/master/3221-find-the-peaks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3429-special-array-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravasodariya/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
