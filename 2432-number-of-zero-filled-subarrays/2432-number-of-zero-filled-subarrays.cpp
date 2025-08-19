@@ -2,25 +2,20 @@ class Solution {
 public:
     long long zeroFilledSubarray(vector<int>& nums) 
     {
-        long long ans=0;
-        int i=0;
-        while(i<nums.size())
+        int count=0;
+        long long total=0;
+        for(int i=0;i<nums.size();i++)
         {
-            long long n=0;
             if(nums[i]==0)
             {
-                while(i<nums.size() && nums[i]==0)
-                {
-                    i++;
-                    n++;
-                }
+                count++;
+                total+=count;
             }
             else
             {
-                i++;
+                count=0;
             }
-            ans+=n*(n+1)/2; //formula for calculate how many we get subarray from length n
         }
-        return ans;
+        return total;
     }
 };
