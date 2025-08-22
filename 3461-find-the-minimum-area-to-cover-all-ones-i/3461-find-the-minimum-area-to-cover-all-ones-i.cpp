@@ -2,15 +2,13 @@ class Solution {
 public:
     int minimumArea(vector<vector<int>>& grid) 
     {
-         int row=grid.size();
-         int col=grid[0].size();
-         int minRow=row;
-         int maxRow=-1;
-         int minCol=col;
-         int maxCol=-1;
-         for(int i=0;i<row;i++)
+         int minRow=INT_MAX;
+         int maxRow=INT_MIN;
+         int minCol=INT_MAX;
+         int maxCol=INT_MIN;
+         for(int i=0;i<grid.size();i++)
          {
-            for(int j=0;j<col;j++)
+            for(int j=0;j<grid[0].size();j++)
             {
                 if(grid[i][j]==1)
                 {
