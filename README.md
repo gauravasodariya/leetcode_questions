@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauravasodariya/leetcode_questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravasodariya/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3324-split-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3324-split-the-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravasodariya/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
