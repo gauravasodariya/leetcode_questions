@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1666-make-the-string-great](https://github.com/gauravasodariya/leetcode_questions/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gauravasodariya/leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
+| [1666-make-the-string-great](https://github.com/gauravasodariya/leetcode_questions/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Simulation
