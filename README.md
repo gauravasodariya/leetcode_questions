@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/gauravasodariya/leetcode_questions/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gauravasodariya/leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3617-find-the-original-typed-string-i) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3324-split-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3324-split-the-array) |
 ## Recursion
