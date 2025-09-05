@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gauravasodariya/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
+| [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
 | [1253-sort-the-matrix-diagonally](https://github.com/gauravasodariya/leetcode_questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravasodariya/leetcode_questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
+| [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/gauravasodariya/leetcode_questions/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
