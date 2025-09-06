@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/gauravasodariya/leetcode_questions/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/gauravasodariya/leetcode_questions/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
