@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
+| [0981-delete-columns-to-make-sorted](https://github.com/gauravasodariya/leetcode_questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
+| [0981-delete-columns-to-make-sorted](https://github.com/gauravasodariya/leetcode_questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
