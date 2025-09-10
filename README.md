@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2529-range-product-queries-of-powers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauravasodariya/leetcode_questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/gauravasodariya/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravasodariya/leetcode_questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3324-split-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3324-split-the-array) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [3396-valid-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
