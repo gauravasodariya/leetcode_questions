@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauravasodariya/leetcode_questions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1006-vowel-spellchecker](https://github.com/gauravasodariya/leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/gauravasodariya/leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauravasodariya/leetcode_questions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1006-vowel-spellchecker](https://github.com/gauravasodariya/leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/gauravasodariya/leetcode_questions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
