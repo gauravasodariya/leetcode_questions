@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/gauravasodariya/leetcode_questions/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/gauravasodariya/leetcode_questions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/gauravasodariya/leetcode_questions/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
@@ -636,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/gauravasodariya/leetcode_questions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
