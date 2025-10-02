@@ -2,14 +2,17 @@ class Solution {
 public:
     int maxBottlesDrunk(int numBottles, int numExchange) 
     {
-        int consumed=0;
-          while(numBottles>=numExchange)
+        int ans=numBottles;
+        int empty=numBottles;
+
+        while(empty>=numExchange)
         {
-            consumed+=numExchange;
-            numBottles=numBottles-numExchange+1;
+            empty=empty-numExchange+1;
             numExchange++;
+            ans++;
         }
-        return consumed+numBottles;
+
+        return ans;
     }
 };
 
