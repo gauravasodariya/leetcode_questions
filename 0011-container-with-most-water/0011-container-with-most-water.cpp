@@ -8,15 +8,15 @@ public:
         int maxArea=0;
         while(left<right)
         {
-            int length=min(height[left],height[right]);
+            int ht=min(height[left],height[right]);
             int width=right-left;
-            int currentArea=length*width;
+            int currentArea=ht*width;
             maxArea=max(maxArea,currentArea);
             if(height[left]<height[right])
             {
                 left++;
             }
-            else 
+            else
             {
                 right--;
             }
