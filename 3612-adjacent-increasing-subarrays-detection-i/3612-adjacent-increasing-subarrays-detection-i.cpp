@@ -1,23 +1,25 @@
 class Solution {
 public:
-    bool isIncreasing(vector<int>&nums,int start,int end)
-    {
-        for(int i=start+1;i<end;i++)
-        {
-            if(nums[i]<=nums[i-1])
-            {
-                return false;
-            }
-        }
-        return true;
-    }
     bool hasIncreasingSubarrays(vector<int>& nums, int k) 
     {
-        for(int start=0;start+2*k<=nums.size();start++)
+        int currRun=1;
+        int prevRun=0;
+        int maxResult=0;
+        for(int i=1;i<nums.size();i++)
         {
-            bool first=isIncreasing(nums,start,start+k);
-            bool second=isIncreasing(nums,start+k,start+2*k);
-            if(first==true && second==true)
+            if(nums[i]>nums[i-1])
+            {
+                currRun++;
+            }
+            else{
+                prevRun=currRun;
+                currRun=1;
+            }
+            if(min(currRun,prevRun)>=k)
+            {
+                return true;
+            }
+            if((currRun/2)>=k)
             {
                 return true;
             }
