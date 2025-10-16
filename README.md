@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2487-optimal-partition-of-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2487-optimal-partition-of-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravasodariya/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/2481-strictly-palindromic-number) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
