@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauravasodariya/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3324-split-the-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauravasodariya/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
