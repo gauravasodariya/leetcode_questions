@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravasodariya/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/gauravasodariya/leetcode_questions/tree/master/3221-find-the-peaks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravasodariya/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/gauravasodariya/leetcode_questions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauravasodariya/leetcode_questions/tree/master/3748-sort-matrix-by-diagonals) |
