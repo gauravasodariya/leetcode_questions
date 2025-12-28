@@ -3,14 +3,9 @@ public:
     int countNegatives(vector<vector<int>>& grid) 
     {
         int count=0;
-        int j=0;
-        for(int i=0;i<grid.size();i++){
-           for(int j=0;j<grid[i].size();j++){
-              if(grid[i][j]<0){
-                count+=grid[i].size()-j;
-                break;
-              }
-           }
+        for(auto row : grid){
+            int index = upper_bound(row.begin(),row.end(),0,greater<int>())-row.begin();
+        count+=grid[0].size()-index;
         }
         return count;
     }
