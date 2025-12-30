@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
+| [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/gauravasodariya/leetcode_questions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/gauravasodariya/leetcode_questions/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0932-monotonic-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
 | [0889-buddy-strings](https://github.com/gauravasodariya/leetcode_questions/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0940-fruit-into-baskets) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
+| [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/gauravasodariya/leetcode_questions/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/gauravasodariya/leetcode_questions/tree/master/0498-diagonal-traverse) |
+| [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
 | [1253-sort-the-matrix-diagonally](https://github.com/gauravasodariya/leetcode_questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
