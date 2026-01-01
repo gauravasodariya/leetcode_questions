@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gauravasodariya/leetcode_questions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/gauravasodariya/leetcode_questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gauravasodariya/leetcode_questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0078-subsets) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/gauravasodariya/leetcode_questions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/gauravasodariya/leetcode_questions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0263-ugly-number) |
