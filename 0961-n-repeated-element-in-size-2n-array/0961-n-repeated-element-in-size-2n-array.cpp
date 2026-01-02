@@ -5,10 +5,8 @@ public:
         unordered_map<int,int>mp;
         for(int i=0;i<nums.size();i++){
             mp[nums[i]]++;
-        }
-        for(auto num : mp){
-            if(num.second==nums.size()/2){
-                return num.first;
+            if(mp[nums[i]]>1){
+                return nums[i];
             }
         }
         return -1;
