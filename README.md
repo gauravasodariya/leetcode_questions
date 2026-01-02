@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauravasodariya/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2169-simple-bank-system) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gauravasodariya/leetcode_questions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/gauravasodariya/leetcode_questions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/gauravasodariya/leetcode_questions/tree/master/1642-water-bottles) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gauravasodariya/leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/2288-count-operations-to-obtain-zero) |
