@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
