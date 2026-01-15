@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauravasodariya/leetcode_questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/gauravasodariya/leetcode_questions/tree/master/3606-coupon-code-validator) |
