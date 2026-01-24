@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
+| [2733-neither-minimum-nor-maximum](https://github.com/gauravasodariya/leetcode_questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
+| [2733-neither-minimum-nor-maximum](https://github.com/gauravasodariya/leetcode_questions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
