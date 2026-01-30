@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/gauravasodariya/leetcode_questions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/0389-find-the-difference) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/gauravasodariya/leetcode_questions/tree/master/0076-minimum-window-substring) |
+| [0290-word-pattern](https://github.com/gauravasodariya/leetcode_questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/0389-find-the-difference) |
