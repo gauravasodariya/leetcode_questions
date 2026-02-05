@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/gauravasodariya/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravasodariya/leetcode_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0229-majority-element-ii) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravasodariya/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravasodariya/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gauravasodariya/leetcode_questions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/gauravasodariya/leetcode_questions/tree/master/0498-diagonal-traverse) |
@@ -871,4 +875,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
