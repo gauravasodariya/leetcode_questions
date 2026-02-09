@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/gauravasodariya/leetcode_questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/gauravasodariya/leetcode_questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravasodariya/leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/gauravasodariya/leetcode_questions/tree/master/0743-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/gauravasodariya/leetcode_questions/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/gauravasodariya/leetcode_questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/1895-largest-magic-square) |
