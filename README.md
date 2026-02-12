@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauravasodariya/leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravasodariya/leetcode_questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/gauravasodariya/leetcode_questions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/gauravasodariya/leetcode_questions/tree/master/1046-last-stone-weight) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2429-design-a-food-rating-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gauravasodariya/leetcode_questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
