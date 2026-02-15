@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gauravasodariya/leetcode_questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0191-number-of-1-bits) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/gauravasodariya/leetcode_questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/gauravasodariya/leetcode_questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/gauravasodariya/leetcode_questions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0263-ugly-number) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/gauravasodariya/leetcode_questions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/gauravasodariya/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0290-word-pattern](https://github.com/gauravasodariya/leetcode_questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0344-reverse-string) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/gauravasodariya/leetcode_questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/gauravasodariya/leetcode_questions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/gauravasodariya/leetcode_questions/tree/master/1094-car-pooling) |
