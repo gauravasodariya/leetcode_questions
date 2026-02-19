@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gauravasodariya/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gauravasodariya/leetcode_questions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/gauravasodariya/leetcode_questions/tree/master/0520-detect-capital) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0889-buddy-strings](https://github.com/gauravasodariya/leetcode_questions/tree/master/0889-buddy-strings) |
 | [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gauravasodariya/leetcode_questions/tree/master/0944-delete-columns-to-make-sorted) |
