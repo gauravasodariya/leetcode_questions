@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/gauravasodariya/leetcode_questions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravasodariya/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/gauravasodariya/leetcode_questions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/gauravasodariya/leetcode_questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/gauravasodariya/leetcode_questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravasodariya/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravasodariya/leetcode_questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gauravasodariya/leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gauravasodariya/leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
