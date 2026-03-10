@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/gauravasodariya/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/gauravasodariya/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/gauravasodariya/leetcode_questions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/gauravasodariya/leetcode_questions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/gauravasodariya/leetcode_questions/tree/master/0520-detect-capital) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/gauravasodariya/leetcode_questions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/gauravasodariya/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/gauravasodariya/leetcode_questions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/gauravasodariya/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/gauravasodariya/leetcode_questions/tree/master/1094-car-pooling) |
