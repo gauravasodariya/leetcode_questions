@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2463-minimum-total-distance-traveled](https://github.com/gauravasodariya/leetcode_questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2478-longest-nice-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravasodariya/leetcode_questions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2463-minimum-total-distance-traveled](https://github.com/gauravasodariya/leetcode_questions/tree/master/2463-minimum-total-distance-traveled) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauravasodariya/leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauravasodariya/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2463-minimum-total-distance-traveled](https://github.com/gauravasodariya/leetcode_questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauravasodariya/leetcode_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
