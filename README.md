@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gauravasodariya/leetcode_questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/1646-kth-missing-positive-number) |
+| [1652-defuse-the-bomb](https://github.com/gauravasodariya/leetcode_questions/tree/master/1652-defuse-the-bomb) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravasodariya/leetcode_questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauravasodariya/leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/gauravasodariya/leetcode_questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gauravasodariya/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravasodariya/leetcode_questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/gauravasodariya/leetcode_questions/tree/master/1652-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/gauravasodariya/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauravasodariya/leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauravasodariya/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
