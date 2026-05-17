@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/1200-minimum-absolute-difference) |
 | [1253-sort-the-matrix-diagonally](https://github.com/gauravasodariya/leetcode_questions/tree/master/1253-sort-the-matrix-diagonally) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravasodariya/leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1331-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravasodariya/leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravasodariya/leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
