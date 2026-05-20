@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gauravasodariya/leetcode_questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/gauravasodariya/leetcode_questions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/gauravasodariya/leetcode_questions/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/gauravasodariya/leetcode_questions/tree/master/2540-minimum-common-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/gauravasodariya/leetcode_questions/tree/master/2784-check-if-array-is-good) |
