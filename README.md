@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/gauravasodariya/leetcode_questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravasodariya/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3838-weighted-word-mapping](https://github.com/gauravasodariya/leetcode_questions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/gauravasodariya/leetcode_questions/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauravasodariya/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/gauravasodariya/leetcode_questions/tree/master/3838-weighted-word-mapping) |
 ## Monotonic Stack
 |  |
 | ------- |
