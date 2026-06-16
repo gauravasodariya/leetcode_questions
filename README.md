@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
+| [0665-non-decreasing-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/gauravasodariya/leetcode_questions/tree/master/0724-find-pivot-index) |
