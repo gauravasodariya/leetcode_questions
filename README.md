@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3174-clear-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/3174-clear-digits) |
 | [3396-valid-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/gauravasodariya/leetcode_questions/tree/master/3606-coupon-code-validator) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3174-clear-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -906,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gauravasodariya/leetcode_questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/gauravasodariya/leetcode_questions/tree/master/2886-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravasodariya/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3174-clear-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/3174-clear-digits) |
 | [3336-water-bottles-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3379-transformed-array) |
