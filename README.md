@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/gauravasodariya/leetcode_questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/gauravasodariya/leetcode_questions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gauravasodariya/leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/gauravasodariya/leetcode_questions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/gauravasodariya/leetcode_questions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
