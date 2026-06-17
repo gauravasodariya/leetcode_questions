@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/gauravasodariya/leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/2478-longest-nice-subarray) |
 | [2529-range-product-queries-of-powers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauravasodariya/leetcode_questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/gauravasodariya/leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/gauravasodariya/leetcode_questions/tree/master/2404-most-frequent-even-element) |
 | [2429-design-a-food-rating-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2487-optimal-partition-of-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2487-optimal-partition-of-string) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/gauravasodariya/leetcode_questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/gauravasodariya/leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/gauravasodariya/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gauravasodariya/leetcode_questions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -990,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/gauravasodariya/leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/gauravasodariya/leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/gauravasodariya/leetcode_questions/tree/master/2404-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/gauravasodariya/leetcode_questions/tree/master/2833-furthest-point-from-origin) |
