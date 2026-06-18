@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/gauravasodariya/leetcode_questions/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0796-rotate-string) |
+| [0824-goat-latin](https://github.com/gauravasodariya/leetcode_questions/tree/master/0824-goat-latin) |
 | [0889-buddy-strings](https://github.com/gauravasodariya/leetcode_questions/tree/master/0889-buddy-strings) |
 | [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gauravasodariya/leetcode_questions/tree/master/0944-delete-columns-to-make-sorted) |
