@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/gauravasodariya/leetcode_questions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0989-add-to-array-form-of-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-vowel-spellchecker](https://github.com/gauravasodariya/leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
+| [0989-add-to-array-form-of-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravasodariya/leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/gauravasodariya/leetcode_questions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gauravasodariya/leetcode_questions/tree/master/1344-angle-between-hands-of-a-clock) |
