@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/gauravasodariya/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1816-truncate-sentence](https://github.com/gauravasodariya/leetcode_questions/tree/master/1816-truncate-sentence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravasodariya/leetcode_questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1840-maximum-building-height](https://github.com/gauravasodariya/leetcode_questions/tree/master/1840-maximum-building-height) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauravasodariya/leetcode_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gauravasodariya/leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gauravasodariya/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauravasodariya/leetcode_questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gauravasodariya/leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1840-maximum-building-height](https://github.com/gauravasodariya/leetcode_questions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauravasodariya/leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/gauravasodariya/leetcode_questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/gauravasodariya/leetcode_questions/tree/master/1840-maximum-building-height) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauravasodariya/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/2288-count-operations-to-obtain-zero) |
