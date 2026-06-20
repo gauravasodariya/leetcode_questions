@@ -879,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravasodariya/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/gauravasodariya/leetcode_questions/tree/master/1666-make-the-string-great) |
+| [1678-goal-parser-interpretation](https://github.com/gauravasodariya/leetcode_questions/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauravasodariya/leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
