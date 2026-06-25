@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3689-maximum-total-subarray-value-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauravasodariya/leetcode_questions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gauravasodariya/leetcode_questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1046,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3324-split-the-array) |
 | [3713-longest-balanced-substring-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauravasodariya/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
@@ -1203,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1216,4 +1222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/gauravasodariya/leetcode_questions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauravasodariya/leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
