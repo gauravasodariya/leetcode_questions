@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/gauravasodariya/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gauravasodariya/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/gauravasodariya/leetcode_questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1321-get-equal-substrings-within-budget](https://github.com/gauravasodariya/leetcode_questions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gauravasodariya/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
