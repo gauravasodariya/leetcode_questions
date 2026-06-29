@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauravasodariya/leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gauravasodariya/leetcode_questions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gauravasodariya/leetcode_questions/tree/master/2075-decode-the-slanted-ciphertext) |
