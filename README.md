@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gauravasodariya/leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1929-concatenation-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/gauravasodariya/leetcode_questions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/gauravasodariya/leetcode_questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gauravasodariya/leetcode_questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gauravasodariya/leetcode_questions/tree/master/2154-keep-multiplying-found-values-by-two) |
