@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2469-convert-the-temperature](https://github.com/gauravasodariya/leetcode_questions/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/2481-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/gauravasodariya/leetcode_questions/tree/master/2652-sum-multiples) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
