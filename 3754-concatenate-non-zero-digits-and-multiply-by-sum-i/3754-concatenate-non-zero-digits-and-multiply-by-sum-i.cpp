@@ -1,15 +1,20 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
+        vector<int>digits;
         int sum=0;
-        long long num=0;
-        string s=to_string(n);
-        for(char ch : s){
-            if(ch!='0'){
-                num=num*10+(ch-'0');
-                sum+=(ch-'0');
+        while(n>0){
+            int digit=n%10;
+            if(digit!=0){
+                digits.push_back(digit);
+                sum+=digit;
             }
+            n=n/10;
         }
-        return num*sum;
+        long long num=0;
+        for(int i=digits.size()-1;i>=0;i--){
+            num=num*10+digits[i];
+        }
+        return num*sum; 
     }
 };
