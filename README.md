@@ -947,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2937-make-three-strings-equal](https://github.com/gauravasodariya/leetcode_questions/tree/master/2937-make-three-strings-equal) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3110-score-of-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/3174-clear-digits) |
