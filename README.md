@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/gauravasodariya/leetcode_questions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/gauravasodariya/leetcode_questions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1480-running-sum-of-1d-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gauravasodariya/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/gauravasodariya/leetcode_questions/tree/master/1094-car-pooling) |
 | [1321-get-equal-substrings-within-budget](https://github.com/gauravasodariya/leetcode_questions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gauravasodariya/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/gauravasodariya/leetcode_questions/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/1895-largest-magic-square) |
