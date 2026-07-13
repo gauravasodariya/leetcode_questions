@@ -1115,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/gauravasodariya/leetcode_questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
