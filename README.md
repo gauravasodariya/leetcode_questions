@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2540-minimum-common-value](https://github.com/gauravasodariya/leetcode_questions/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gauravasodariya/leetcode_questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gauravasodariya/leetcode_questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/gauravasodariya/leetcode_questions/tree/master/2574-left-and-right-sum-differences) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gauravasodariya/leetcode_questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/gauravasodariya/leetcode_questions/tree/master/2886-faulty-keyboard) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravasodariya/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
