@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
@@ -984,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2390-removing-stars-from-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -1096,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
