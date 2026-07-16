@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/gauravasodariya/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3838-weighted-word-mapping](https://github.com/gauravasodariya/leetcode_questions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauravasodariya/leetcode_questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/gauravasodariya/leetcode_questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -886,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/gauravasodariya/leetcode_questions/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -1030,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/gauravasodariya/leetcode_questions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1145,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravasodariya/leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
