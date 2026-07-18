@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gauravasodariya/leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/gauravasodariya/leetcode_questions/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauravasodariya/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravasodariya/leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
