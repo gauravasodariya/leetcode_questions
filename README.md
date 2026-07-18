@@ -874,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/gauravasodariya/leetcode_questions/tree/master/2469-convert-the-temperature) |
 | [2481-strictly-palindromic-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/2481-strictly-palindromic-number) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/gauravasodariya/leetcode_questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/gauravasodariya/leetcode_questions/tree/master/2652-sum-multiples) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravasodariya/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1235,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravasodariya/leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/gauravasodariya/leetcode_questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Doubly-Linked List
 |  |
 | ------- |
