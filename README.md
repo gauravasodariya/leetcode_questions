@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/gauravasodariya/leetcode_questions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gauravasodariya/leetcode_questions/tree/master/0455-assign-cookies) |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/gauravasodariya/leetcode_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/gauravasodariya/leetcode_questions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/gauravasodariya/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/gauravasodariya/leetcode_questions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/gauravasodariya/leetcode_questions/tree/master/0459-repeated-substring-pattern) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/gauravasodariya/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauravasodariya/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
