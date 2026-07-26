@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0665-non-decreasing-array) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gauravasodariya/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gauravasodariya/leetcode_questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/gauravasodariya/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/gauravasodariya/leetcode_questions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/gauravasodariya/leetcode_questions/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
