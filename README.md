@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauravasodariya/leetcode_questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/gauravasodariya/leetcode_questions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/gauravasodariya/leetcode_questions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3617-find-the-original-typed-string-i) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/gauravasodariya/leetcode_questions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauravasodariya/leetcode_questions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
