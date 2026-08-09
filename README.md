@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravasodariya/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravasodariya/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/gauravasodariya/leetcode_questions/tree/master/3024-type-of-triangle) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3024-type-of-triangle](https://github.com/gauravasodariya/leetcode_questions/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauravasodariya/leetcode_questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravasodariya/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/gauravasodariya/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3024-type-of-triangle](https://github.com/gauravasodariya/leetcode_questions/tree/master/3024-type-of-triangle) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3336-water-bottles-ii) |
@@ -1333,4 +1336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/gauravasodariya/leetcode_questions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
