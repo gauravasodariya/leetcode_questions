@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/gauravasodariya/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/gauravasodariya/leetcode_questions/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-buddy-strings](https://github.com/gauravasodariya/leetcode_questions/tree/master/0889-buddy-strings) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/gauravasodariya/leetcode_questions/tree/master/0709-to-lower-case) |
 | [0761-special-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0761-special-binary-string) |
+| [0771-jewels-and-stones](https://github.com/gauravasodariya/leetcode_questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/gauravasodariya/leetcode_questions/tree/master/0824-goat-latin) |
 | [0889-buddy-strings](https://github.com/gauravasodariya/leetcode_questions/tree/master/0889-buddy-strings) |
