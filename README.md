@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gauravasodariya/leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gauravasodariya/leetcode_questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/gauravasodariya/leetcode_questions/tree/master/0890-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/gauravasodariya/leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/gauravasodariya/leetcode_questions/tree/master/0907-koko-eating-bananas) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/gauravasodariya/leetcode_questions/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/gauravasodariya/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/gauravasodariya/leetcode_questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravasodariya/leetcode_questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
 | [0935-orderly-queue](https://github.com/gauravasodariya/leetcode_questions/tree/master/0935-orderly-queue) |
 | [0989-add-to-array-form-of-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/0989-add-to-array-form-of-integer) |
@@ -1277,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## Ordered Set
@@ -1365,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -1373,5 +1378,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
