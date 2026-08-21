@@ -681,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/gauravasodariya/leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/gauravasodariya/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/gauravasodariya/leetcode_questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gauravasodariya/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gauravasodariya/leetcode_questions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauravasodariya/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gauravasodariya/leetcode_questions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gauravasodariya/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/1748-sum-of-unique-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/gauravasodariya/leetcode_questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gauravasodariya/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/gauravasodariya/leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
