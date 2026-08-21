@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauravasodariya/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/gauravasodariya/leetcode_questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauravasodariya/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravasodariya/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/gauravasodariya/leetcode_questions/tree/master/3221-find-the-peaks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/gauravasodariya/leetcode_questions/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravasodariya/leetcode_questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauravasodariya/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/gauravasodariya/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/gauravasodariya/leetcode_questions/tree/master/3024-type-of-triangle) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauravasodariya/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3336-water-bottles-ii) |
@@ -1259,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2413-smallest-even-multiple](https://github.com/gauravasodariya/leetcode_questions/tree/master/2413-smallest-even-multiple) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauravasodariya/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravasodariya/leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1337,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauravasodariya/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
