@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gauravasodariya/leetcode_questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3794-reverse-string-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gauravasodariya/leetcode_questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -1082,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/gauravasodariya/leetcode_questions/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/gauravasodariya/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
