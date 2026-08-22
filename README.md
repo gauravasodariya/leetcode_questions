@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/gauravasodariya/leetcode_questions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gauravasodariya/leetcode_questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gauravasodariya/leetcode_questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2938-separate-black-and-white-balls](https://github.com/gauravasodariya/leetcode_questions/tree/master/2938-separate-black-and-white-balls) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/gauravasodariya/leetcode_questions/tree/master/2689-rearranging-fruits) |
+| [2938-separate-black-and-white-balls](https://github.com/gauravasodariya/leetcode_questions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/gauravasodariya/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -1067,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/gauravasodariya/leetcode_questions/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2937-make-three-strings-equal](https://github.com/gauravasodariya/leetcode_questions/tree/master/2937-make-three-strings-equal) |
+| [2938-separate-black-and-white-balls](https://github.com/gauravasodariya/leetcode_questions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gauravasodariya/leetcode_questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
