@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/gauravasodariya/leetcode_questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gauravasodariya/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/gauravasodariya/leetcode_questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/gauravasodariya/leetcode_questions/tree/master/2103-rings-and-rods) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/gauravasodariya/leetcode_questions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauravasodariya/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gauravasodariya/leetcode_questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gauravasodariya/leetcode_questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/gauravasodariya/leetcode_questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/gauravasodariya/leetcode_questions/tree/master/2103-rings-and-rods) |
@@ -1206,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/gauravasodariya/leetcode_questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/gauravasodariya/leetcode_questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/gauravasodariya/leetcode_questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/gauravasodariya/leetcode_questions/tree/master/2351-first-letter-to-appear-twice) |
