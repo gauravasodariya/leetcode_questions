@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/gauravasodariya/leetcode_questions/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/0665-non-decreasing-array) |
+| [0695-max-area-of-island](https://github.com/gauravasodariya/leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/gauravasodariya/leetcode_questions/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/gauravasodariya/leetcode_questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/gauravasodariya/leetcode_questions/tree/master/0724-find-pivot-index) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/gauravasodariya/leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/gauravasodariya/leetcode_questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/gauravasodariya/leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/gauravasodariya/leetcode_questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1200,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/gauravasodariya/leetcode_questions/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/gauravasodariya/leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/gauravasodariya/leetcode_questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -1406,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/gauravasodariya/leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/gauravasodariya/leetcode_questions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravasodariya/leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
