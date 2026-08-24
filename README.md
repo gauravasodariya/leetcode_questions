@@ -833,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/gauravasodariya/leetcode_questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/gauravasodariya/leetcode_questions/tree/master/0975-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/gauravasodariya/leetcode_questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/gauravasodariya/leetcode_questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
 | [1035-cousins-in-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1035-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1398,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/gauravasodariya/leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravasodariya/leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -1406,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/gauravasodariya/leetcode_questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravasodariya/leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -1463,8 +1467,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
