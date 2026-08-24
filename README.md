@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/gauravasodariya/leetcode_questions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauravasodariya/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gauravasodariya/leetcode_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gauravasodariya/leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/1895-largest-magic-square) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/gauravasodariya/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/gauravasodariya/leetcode_questions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/gauravasodariya/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/gauravasodariya/leetcode_questions/tree/master/2529-range-product-queries-of-powers) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/gauravasodariya/leetcode_questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gauravasodariya/leetcode_questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1872-stone-game-viii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/gauravasodariya/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2463-minimum-total-distance-traveled](https://github.com/gauravasodariya/leetcode_questions/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gauravasodariya/leetcode_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/gauravasodariya/leetcode_questions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
@@ -1349,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
@@ -1442,6 +1447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -1451,6 +1457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/gauravasodariya/leetcode_questions/tree/master/2029-stone-game-ix) |
 ## Graph Coloring
 |  |
