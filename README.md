@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/gauravasodariya/leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/1895-largest-magic-square) |
+| [1905-count-sub-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/1905-count-sub-islands) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1929-concatenation-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1929-concatenation-of-array) |
 | [1962-single-threaded-cpu](https://github.com/gauravasodariya/leetcode_questions/tree/master/1962-single-threaded-cpu) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/gauravasodariya/leetcode_questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gauravasodariya/leetcode_questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1905-count-sub-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravasodariya/leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -883,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/gauravasodariya/leetcode_questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/gauravasodariya/leetcode_questions/tree/master/1345-jump-game-iv) |
+| [1905-count-sub-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravasodariya/leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -1222,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauravasodariya/leetcode_questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/gauravasodariya/leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [1895-largest-magic-square](https://github.com/gauravasodariya/leetcode_questions/tree/master/1895-largest-magic-square) |
+| [1905-count-sub-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/1905-count-sub-islands) |
 | [1975-maximum-matrix-sum](https://github.com/gauravasodariya/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/gauravasodariya/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauravasodariya/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1425,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/gauravasodariya/leetcode_questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/1254-number-of-closed-islands) |
+| [1905-count-sub-islands](https://github.com/gauravasodariya/leetcode_questions/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravasodariya/leetcode_questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
