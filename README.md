@@ -976,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/gauravasodariya/leetcode_questions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/gauravasodariya/leetcode_questions/tree/master/2427-number-of-common-factors) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/gauravasodariya/leetcode_questions/tree/master/2469-convert-the-temperature) |
@@ -1304,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/gauravasodariya/leetcode_questions/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gauravasodariya/leetcode_questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/gauravasodariya/leetcode_questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2427-number-of-common-factors](https://github.com/gauravasodariya/leetcode_questions/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gauravasodariya/leetcode_questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/gauravasodariya/leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -1322,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2413-smallest-even-multiple](https://github.com/gauravasodariya/leetcode_questions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/gauravasodariya/leetcode_questions/tree/master/2427-number-of-common-factors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gauravasodariya/leetcode_questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gauravasodariya/leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1502,4 +1505,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/gauravasodariya/leetcode_questions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/gauravasodariya/leetcode_questions/tree/master/0886-possible-bipartition) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/gauravasodariya/leetcode_questions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/gauravasodariya/leetcode_questions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
