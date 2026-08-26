@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/gauravasodariya/leetcode_questions/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gauravasodariya/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/gauravasodariya/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gauravasodariya/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/gauravasodariya/leetcode_questions/tree/master/2833-furthest-point-from-origin) |
 | [2886-faulty-keyboard](https://github.com/gauravasodariya/leetcode_questions/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gauravasodariya/leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2937-make-three-strings-equal](https://github.com/gauravasodariya/leetcode_questions/tree/master/2937-make-three-strings-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/gauravasodariya/leetcode_questions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
