@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3429-special-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/gauravasodariya/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3324-split-the-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/gauravasodariya/leetcode_questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauravasodariya/leetcode_questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/gauravasodariya/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1307,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/gauravasodariya/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gauravasodariya/leetcode_questions/tree/master/0342-power-of-four) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gauravasodariya/leetcode_questions/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
@@ -1337,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3221-find-the-peaks](https://github.com/gauravasodariya/leetcode_questions/tree/master/3221-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gauravasodariya/leetcode_questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gauravasodariya/leetcode_questions/tree/master/3546-equal-sum-grid-partition-i) |
