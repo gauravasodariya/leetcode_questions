@@ -966,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/gauravasodariya/leetcode_questions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gauravasodariya/leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/gauravasodariya/leetcode_questions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/gauravasodariya/leetcode_questions/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/gauravasodariya/leetcode_questions/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/gauravasodariya/leetcode_questions/tree/master/0900-reordered-power-of-2) |
@@ -1447,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/gauravasodariya/leetcode_questions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gauravasodariya/leetcode_questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/gauravasodariya/leetcode_questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Doubly-Linked List
